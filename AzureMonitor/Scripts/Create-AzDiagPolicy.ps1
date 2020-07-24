@@ -599,7 +599,7 @@ if($AllRegions)
                 }
             },
             "logAnalytics": {
-                "type": "string",
+                "type": "String",
                 "metadata": {
                     "displayName": "logAnalytics",
                     "description": "The target Log Analytics Workspace for Azure Diagnostics",
